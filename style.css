@@ -1,0 +1,127 @@
+.header{
+    background-color: #101446;
+}
+.fix::after{
+    content: "";
+    clear: both;
+    display: block;
+}
+.logo{
+    text-align: center;
+    padding: 10px 0;
+}
+.logo img{
+    width: 80px;
+}
+.menu{}
+.menu ul{
+    margin-bottom: 0;
+    text-align: center;
+}
+.menu ul li{
+    display: inline-block;
+}
+.menu ul li a{
+    display: inline-block;
+    color: #fff;
+    padding: 0 10px;
+    text-decoration: none;
+    line-height: 70.6px;
+}
+/* bannner */
+.banner{
+    background-image: url(https://i.ibb.co/n6SMdC5/intro-bg.jpg);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.banner h3{
+    color: #fff;
+    font-weight: 600;
+    margin-top: 275px;
+    font-size: 22px;
+}
+.banner p{
+    color: #fff;
+    margin-top: 40px;
+}
+.banner a {
+    color: #fff;
+    background-color: #337AB7;
+    padding: 12px 15px;
+    font-weight: 600;
+    border-radius: 10px;
+    text-decoration: none;
+}
+/* team */
+.team{
+    background-color: #BAC1F3;
+    text-transform: capitalize;
+}
+.member{
+    width: 183px;
+}
+.team h1{
+    padding-top: 50px;
+    margin-bottom: 30px;
+}
+.team h6{
+    margin: 10px 0;
+    font-weight: 600;
+}
+.team p{
+    color: #444B57;
+    margin: 0;
+}
+.about{
+    background-color: #C2D4EA;
+    text-transform: capitalize;
+}
+.about h1{
+    padding-top: 50px;
+    margin-bottom: 30px;
+}
+.about .img{
+    float: left;
+    width: 60%;
+    text-align: left;
+}
+.about .text{
+    float: right;
+    width: 40%;
+    text-align: left;
+}
+.p1111 p{
+    text-align: left;
+}
+.contact h1{
+    padding: 50px;
+    text-align: center;
+}
+}
+.about-bio h6{
+    text-align: left !important;
+    
+}
+.fotter{
+    background-color: #0062D3;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+.text-line-1{
+    color: #4B4E52;
+    font-size: 12px;
+}
+.text-line-2{
+    color: #4B4E52;
+}
+.about-img{
+    margin-left: 50px;
+}
+.abca{
+    margin-left: 50px;
+    margin-top: 30px;
+    color: #4B4E52;
+}
